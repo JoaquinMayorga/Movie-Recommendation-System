@@ -1,0 +1,5 @@
+The TMDB + IMDB Merged Movies Dataset is created by TeJas Garg
+https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset
+
+It is under the CC BY-NC-SA 4.0 License
+https://creativecommons.org/licenses/by-nc-sa/4.0/
